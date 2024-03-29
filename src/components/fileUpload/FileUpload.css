@@ -1,0 +1,19 @@
+.icon-color {
+    color: rgb(255, 0, 255);
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.outer-container {
+    border: 5px dotted rgb(255, 0, 255);
+    padding: 20px 60px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.text-class {
+    font-weight: 600;
+    color: rgb(223, 115, 223);
+}
